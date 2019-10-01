@@ -1,1 +1,1 @@
-A weather bot created by geekymanas.
+A weather bot created geekymanas using Rasa Framework.
